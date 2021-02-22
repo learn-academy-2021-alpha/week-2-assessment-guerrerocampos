@@ -185,7 +185,7 @@ test('when vowels is called, the return should be the index of the first vowel i
 
 
 
-
+   
 
 // b) Create the function that makes the test pass.
 const vowels = (strr) => {
@@ -202,6 +202,6 @@ const vowels = (strr) => {
 
 
 
-//  so i figured out how jest works and i think i kinda mastered how to type a test in and run it. i could've used a describe and bulked some of the tests together and use describe( 
+//  so i figured out how jest works and i think i kinda mastered how to type a test in and run it. i could've used a describe and bulked some of the tests together and use describe(
     // it()  but i decided to do each one individually. i didn't pseudo code a lot because for the most part i knew what was going on, and there was a lot of repitition.
 // for some reason: const { test, expect, it } = require("@jest/globals") pops up inside my code everytime i run yarn jest(at the very top, so it was hard to figure out what was wrong art first)
